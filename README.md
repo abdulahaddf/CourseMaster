@@ -2,7 +2,7 @@
 
 A full-stack educational technology platform built with Next.js 16, TypeScript, MongoDB, and Tailwind CSS. Features a professional UI/UX with support for students and administrators.
 
-![CourseMaster](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=600&fit=crop)
+
 
 ## ✨ Features
 
